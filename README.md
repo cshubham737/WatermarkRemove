@@ -1,2 +1,2 @@
 # WatermarkRemove
-Utility to remove watermark from a pdf 
+Python Utility to remove watermark from a pdf 
